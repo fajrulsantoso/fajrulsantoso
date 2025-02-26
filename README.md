@@ -10,4 +10,4 @@ tapi setidaknya bisa bikin kamu senyum dikit (atau malah nangis karena bug).
 ## 🎮 Cara Pakai
 1. **Clone repo ini** (kalau internetmu gak numpang tetangga):  
    ```bash
-   git clone https://github.com/username/reponya.git
+   git clone https://github.com/https://github.com/fajrulsantoso/reponya.git
